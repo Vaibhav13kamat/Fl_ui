@@ -1,4 +1,10 @@
-install tensorflow before running
-add the h.5 model in the requird space
-del the h.5 and then run the import_drive_model.py
+install tensorflow<br>
+install gdown <br>
+delete the model.h5 from the dir <br>
+Download the required model using import_drive_model.py <br>
+Load the required model.5 in the app.py 
+<br>
+
+run using python app.py
+
 
